@@ -1,25 +1,25 @@
 ---
 layout: single
-title:  "Engelschichten"
+title:  "Angel shifts"
 date:   2018-12-27 17:23:42 +0100
 #categories: 35c3 engel
 ---
 
-Um den Orbit zu betreiben benötigen wir einige Helfer. Wie der große Congress wünschen wir uns auch Engel und haben einige Engeltypen definiert:
+To operate the orbit we require a lot of helping hands. As with the overall Congress, we would welcome Angels and have defined a couple of Angel types:
 
-* Abwrack-Kommando				
-* Audio Machinist
-* Chefingenieur*in				
+* Demolition-crew				
+* Audio machinist
+* Chief engineer				
 * Decoration Angel				
-* Hafenmeister*in
-* Navigotor*in				
-* Stage Lotse
-* Video Maschinist
+* Harbourmaster
+* Navigator				
+* Stage pilot
+* Video maschinist
 
-In unserem [Engelsystem](https://engelsystem.oio.social/angeltypes?action=about) findet ihr eine Beschreibung der Tätigkeiten.
+You can find a description of these tasks in our [Angel System](https://engelsystem.oio.social/angeltypes?action=about).
 
-Registriert euch bitte im System und nehmt euch Schichten. Für Audio- und Videomachinisten meldet euch bitte an der Bühne, damit ihr eine entsprechende Einführung bekommen könnt. Die Engeltypen Audio Machinist, Video Machinist und Chefingenieur*in qualifizieren sich auch für offizielle Engelstunden beim 35c3.
+Please register and take on shifts. For audio and video machinists please come to the stage to get your respective training.  The angel types audio machinist, video machinist and chief engineer qualify for offical Angel hours at 35c3.
 
-Solltet ihr Fragen haben, kontaktiert uns bitte über 35c3-orga@freifunk.space oder ruft uns an unter 6467!
+If you have questions, please contact us via 35c3-orga@freifunk.space or call 6467!
 
-Leider kann unser Engelsystem derzeit keine Emails versenden, wartet also bitte nicht auf eine Antwort :)
+Unfortunately our Angel system is unable to send e-mails at the moment, so please don't await any responses :)

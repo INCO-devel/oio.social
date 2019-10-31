@@ -1,42 +1,42 @@
 ---
 layout: single
-title:  "Aussehen und Aufbau des Open Infrastructure Orbit"
+title:  "Layout and build-up of the Open Infrastructure Orbit"
 date:   2018-12-14 18:23:42 +0100
 #categories: 35c3 planung
 ---
 
 <img src="/images/OIO-badge.svg" width="230px" style="float:right;" />
 
-Hier findet ihr Informationen dazu, wie der Aufbau des Open Infrastructure Orbit aussieht.
-Bei Unklarheiten oder Fragen wendet euch gerne im [Rocket.Chat](https://rocket.events.ccc.de/channel/open-infrastructure-orbit) an uns.
+Here you can find Information on the build-up of the Open Infrastructure Orbit.
+In case of confusion or questions please contact us via our [Rocket.Chat](https://rocket.events.ccc.de/channel/open-infrastructure-orbit).
 
-Der Open Infrastructure Orbit ist der sichere Hafen für alle Gruppen, Institutionen und Individuen die sich mit offener Infrastruktur befassen. Während wir über das Jahr in verschiedenen Gewässern unterwegs sind, treffen wir uns zum 35c3 in unserem Hafen (unserer Marina), um uns über die Erlebnisse des vergangenen Jahres, sowie über Visionen für die kommenden Jahre auszutauschen.
+The Open Infrastructure Orbit is a safe harbor for all groups, institutions and individuals who are concerning themselves with open infrastructure. While we travel different waters during most of the year, we land together in our habor, our Marina at 35c3 to exchange stories of adventures from the past year and talk about visions for the years to come.
 
-Die Marina befindet sich im Zentrum von Halle 2, der Assemblyhalle des 35. Chaos Communication Congresses.
+The Marina is located at the center of hall 2, the assembly hall of the 35th Chaos Communication Congresses.
 
-**Bitte beachtet, das sich bei der aktuellen Planung natürlich immer noch etwas ändern kann und die realität auch geringfügig vom Plan abweichen kann!**
+**Please note that the current map might change naturally and reality might differ slightly from our blue prints!**
 
- Plan des OIO:
+ Map of the OIO:
 --------------
 <img src="/images/oio_plan.png" width="98%" /> <br/>
 
-Dies ist ein Ausschnitt aus dem Plan der Messehalle 2. So ist das geplante Aussehen des Orbit.
+This is a cut-out from the map of hall 2. This is the planned layout of the Orbit.
 
- 3D-Sketch des Orbit:
+ 3D-Sketch of the Orbit:
 ---------------------
 <img src="/images/oio_sketch.png" width="98%" /> <br/>
 
-Den 2D-Plan des Orbit als 3D Sketch nachgebaut.
+2D-Map of the Orbit reconstructed in 3D.
 
- Seitenansicht des Orbit:
+ Side view of the Orbit:
 -------------------------
 <img src="/images/oio_from_side.png" width="98%" /> <br/>
 
- Vortragsbereich:
+ Stage:
 ------------------
 <img src="/images/vortragsarena.png" width="98%" /> <br/>
 
- Tischgruppen:
+ Tables:
 ----------------
 <img src="/images/tablegroup.png" width="48%" style="padding: 1%; float:right;" /> <br/>
 <img src="/images/table_ship.png" width="48%" style="padding: 1%;" /> <br/>

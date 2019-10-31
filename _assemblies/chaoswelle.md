@@ -1,11 +1,13 @@
 ---
 title: "Chaoswelle"
 layout: single
-excerpt: "Chaoswelle ist eine Interessengemeinschaft von Funkamateuren im Umfeld des CCC und bereichern den OIO mit potentiell intergalaktischem Kontakt."
+excerpt: "Chaoswelle is a community of CCC-adjacent radio amateurs. They will provide the OIO with (potentially) intergalactic contacts."
 header:
   teaser: /images/logos/chaoswelle.svg
 ---
 
-Sie bauen Verbidnungen über 3000km, können mit 20€ Budget in ganz Europa gehört werden und Empfangen Signale aus der ganzen Welt. [Chaoswelle](https://www.chaoswelle.de/ "Homepage Chaoswelle") ist ein Zusammenschluss der Funkamateure im CCC-Umfeld, die interessierte Menschen herzlich willkommen heißt und gern ihre technische Begeisterung in herlich sozialem Miteinander weitergeben. 
+They establish connections spanning 3000km, can be heard accross Europe on a 20€ budget and receives signals from all over the globe. [Chaoswelle](https://www.chaoswelle.de/ "Homepage Chaoswelle") is an association of CCC-adjacent radio amateurs. Interested people are welcomed to share their excitement for technology within a comfy social setting.
 
-Fühlt euch eingeladen Chaoswelle auf dem Open Infrastructure Orbit zu besuchen oder aus unspannenden 150m Entfernung anzufunken. Sicher bekommt ihr über die Chaospost auch Bestätigungskarten... Chaoswelle ist ein Teil des OIO.
+Feel invited to visit Chaoswelle at the Open Infrastructure Orbit or call them from an boring distance of 150m. Be assured that Chaospost will be delivering QSL cards...
+
+Chaoswelle is a part of the Open Infrastructure Orbit.

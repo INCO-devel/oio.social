@@ -1,10 +1,10 @@
 ---
-title: "Nächstes Mumble Meeting"
+title: "Next Mumble Meeting"
 date_time: 2019-10-30 20:30
 logo: "/images/logos/Icons_mumble.svg"
 external_url: "https://trello.com/b/eOnlhCjB/36c3-oio"
 ---
 
-Unser nächstes Mumble findet am 30.10.2019 im 20:30 Uhr statt.
+Our next Mumble takes place on the 30th of October 2019 at 20:30 Uhr (UTC+1).
 
-Wir treffen uns auf [http://mumble.freifunk.net](http://mumble.freifunk.net)
+We meet at [http://mumble.freifunk.net](http://mumble.freifunk.net)

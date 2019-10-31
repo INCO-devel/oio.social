@@ -3,11 +3,11 @@ main:
     url: /news/
   - title: "Blog"
     url: /blog/
-  - title: "Spenden"
+  - title: "Donations"
     url: "http://spenden.oio.social"
   - title: "CfP"
     url: https://talks.oio.social/36c3-oio/cfp
-  - title: "Engelsystem"
+  - title: "Angel System"
     url: https://engelsystem.oio.social
   - title: "About"
     url: /about/

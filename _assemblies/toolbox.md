@@ -1,16 +1,18 @@
 ---
 title: "Toolbox Bodensee"
 layout: single
-excerpt: "Die Toolbox Bodensee e.V. ist ein Maker & Hackspace sowie Chaostreff am Bodensee und leiht dem OIO ihr Video Streaming Setup"
+excerpt: "Toolbox Bodensee e.V. is a maker & hacker space as well as a Chaostreff at Lake Constace and is providing the OIO with a video streaming setup"
 header:
   teaser: /images/logos/toolbox.svg
 ---
 
-Die Toolbox ist eine Kreativwerkstatt am Bodensee. Ein Space für Maker, Bastler, Hacker und kreative Menschen in Markdorf. [toolbox-bodensee.de](https://toolbox-bodensee.de "Toolbox Webseite")
+Toolbox is a creative workshop near Lake Constance. A space for maker, tinkerer, hacker and creative people in Markdorf. [toolbox-bodensee.de](https://toolbox-bodensee.de "Toolbox Webseite")
 
-Die Toolbox leiht dem OIO ihr Video Streaming Setup.
+Toolbox is providing the OIO with a video streaming setup.
 
-Mit diesem Setup wurden bisher Beispielsweise die Vorträge des [Technik Camp](https://events.ccc.de/2019/06/11/bodensee-technikcamp/) gestreamt und auf [media.ccc.de](https://media.ccc.de/c/tc19) veröffentlicht.
+Talks from the [Technik Camp](https://events.ccc.de/2019/06/11/bodensee-technikcamp/) have been streamed and published on [media.ccc.de](https://media.ccc.de/c/tc19) using this setup.
 ![Toolbox VOC](https://toolbox-bodensee.de/images/toolbox-voc.svg "Toolbox Video Setup")
+
+*More details concerning video streaming can be found at the [VOC](https://github.com/voc/voctomix.git) and the Ansible based deployment system can be found at [Toolbox](https://github.com/ToolboxBodensee/toolbox-voc_ansible.git) or the [VOC](https://github.com/voc/cm.git).
 
 *Weitere Details zum Video Streaming gibt es beim [VOC](https://github.com/voc/voctomix.git) sowie das Deployment via Ansible bei der [Toolbox](https://github.com/ToolboxBodensee/toolbox-voc_ansible.git) oder dem [VOC](https://github.com/voc/cm.git).*

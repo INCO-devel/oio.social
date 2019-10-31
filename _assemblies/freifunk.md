@@ -1,9 +1,9 @@
 ---
 title: "Freifunk"
 layout: single
-excerpt: "Freifunk steht für freie Kommunikation in digitalen Datennetzen."
+excerpt: "Freifunk is a non-commercial initiative for free wireless networks."
 header:
   teaser: /images/logos/175x170_freifunknet.png
 ---
 
-Die Vision von freifunk ist die Verbreitung freier Netzwerke, die Demokratisierung der Kommunikationsmedien und die Förderung lokaler Sozialstrukturen.
+The vision of freifunk is distributing free networks, to democratize the communication infrastructure and promoting social structures locally.
